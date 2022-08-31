@@ -1,0 +1,33 @@
+FIRST PROGRAM : 
+In this tutorial we are creating our first program
+The first thing is we have to use our IDE webstorm/phpstorm or whatever you want. 
+IDE is the environment which helps us to build websites/apps and other stuff like that
+Lets get started
+1. First thing is that we have to create our html file named index and file with ending .js you can name your file FirstProgram
+2. Second thing we have to add <script></script> tag which contain  path where is our file like <script src = Firstprogram.js></script>
+so it will be like that:
+HTML : 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>quiz app</title>
+    <link rel="stylesheet" href="quiz.css">
+    <script src="Firstprogram.js" ></script>
+</head>
+<body>
+</body>
+</html>
+
+and our Js content looks like this :
+alert("Hello World")
+
+The alert () method in JavaScript is used to display a virtual alert box. Like something just happen and your browser infroming you about that etc.
+The last thing is that we can add some text without an alert and it will be look like this:
+document.write("My message");
+
+Everything about methods and what we are using for will be in next tutorials
+
+SUMMARY : 
+We learn how to open our IDE and create files with it and how to add path in our HTML file to first program with js through the browser
+And we know how to put an alert method in js file which infroms us about something just happen
