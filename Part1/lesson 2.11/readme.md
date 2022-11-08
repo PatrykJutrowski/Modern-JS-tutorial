@@ -4,3 +4,4 @@ Logical operatoros :
 AND which is described as &&
 OR   is ||
 not is  !value 
+https://javascript.info/logical-operators
