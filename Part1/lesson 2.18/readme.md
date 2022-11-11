@@ -1,4 +1,4 @@
-This lesson is a summary about what we been learing fundamentals 
+This lesson is a summary about what we've been learing for this whole time. 
 Summary we learn : 
 - Code structure (how should it look like and displaying alerts)
 - Using strict
