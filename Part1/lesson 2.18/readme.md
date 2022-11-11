@@ -7,5 +7,5 @@ Summary we learn :
 - 3 type of loops 
 - Interaction
 - The “switch” construct
-- Functions and many more.
+- Functions and much more.
 - https://javascript.info/javascript-specials
