@@ -6,3 +6,5 @@ which can then be executed in old browsers.
 
 So you can use a polyfill if your target browser did not implement the feature you need to use.
 A transpiler, on the other hand, is more complex and will let you use the new language syntax and transforming your source code.
+
+https://javascript.info/polyfills
