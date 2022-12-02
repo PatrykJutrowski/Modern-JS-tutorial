@@ -7,4 +7,5 @@ let
 var
 The var originates from ancient times and is different from the other 2. In general, it is not used in modern scripts.
 var may seem similar to let, as it can declare a variable.
+var variables have no block scope, their visibility is scoped to current function, or global, if declared outside function.
 https://javascript.info/var
