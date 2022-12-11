@@ -21,4 +21,5 @@ In brief, we can notice that the following data change events are commonly used 
   1) the change event: it generally occurs on the focus loss for text input. So, this event triggers when a value was changed.  
   2) the input event: it occurs for text inputs on every change. Unlike the change event, it triggers immediately.
   3) the cut/copy/paste events: these events occur while cutting/copying/pasting a value. Their actions can’t be prevented. The property event.clipboardData allows reading/writing access to the clipboard.
-❮ Prev
+
+https://javascript.info/events-change-input
